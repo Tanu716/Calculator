@@ -1,0 +1,36 @@
+.container {
+    text-align: center;
+    margin-top: 23px;
+    background-image: url(img/3.jpg);
+    height: 700px;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    border-radius: 41px;
+    border: 5px solid #F5EEDC;
+    font-size: 34px;
+    height: 65px;
+    width: 356px;
+}
+
+button {
+    border-radius: 30px;
+    font-size: 40px;
+    background: #F0ECE3;
+    width: 82px;
+    height: 70px;
+    margin: 6px;
+}
+
+.box1 {
+    border: 4px solid #97BFB4;
+    background-color: #FED2AA;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+    margin-top: 70px;
+}
